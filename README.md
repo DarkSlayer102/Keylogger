@@ -5,7 +5,7 @@ Only for educational purpose so don't use this for any bad intention
 This is a simple keylogger which i made so 
 You need 
 
-Pynput module mainly to make a keylogger also you can additional things if you want
+Pynput module mainly to make a keylogger also you can have additional things if you want
 
 Also I included argparse so you need to type this command in the command line to order to use the code so the command is 
 python keylogger.py --name NAME  
