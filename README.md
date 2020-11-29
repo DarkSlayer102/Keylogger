@@ -8,7 +8,7 @@ You need
 Pynput module mainly to make a keylogger also you can have additional things if you want
 
 Also I included argparse so you need to type this command in the command line to order to use the code so the command is 
-python keylogger.py --name NAME  
+||python keylogger.py --name NAME||
 in the NAME part you type your name which should be equal to the input name otherwise this code won't work for you so
 most of the modules i used in this code is in-built so you don't need to worry about installing it 
 
