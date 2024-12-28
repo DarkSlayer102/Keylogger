@@ -3,7 +3,6 @@ import sys
 from pynput.keyboard import Listener, KeyCode, Key
 import logging
 import os
-#importing all libraries
 
 
 print(f"Current: {os.getcwd()}")
